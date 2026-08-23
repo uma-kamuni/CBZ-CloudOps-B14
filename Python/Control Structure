@@ -1,0 +1,19 @@
+                                        Control Structure
+
+Control Structure:
+1. Conditional Statement: (if, if-else)
+2. Loops: (for, while)
+
+1. Conditional Statement:
+--> an if-else is like a decision making process. it allows the program to execute certain code only
+ if a specific condition is met. if the condition is not met, the program can execute a different set 
+ of instruction:
+ Syntax:
+ if  condition :
+       #code to execute if the condition is true
+ else :
+       #code to execute if the condition is false
+
+       
+
+

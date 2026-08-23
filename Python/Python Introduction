@@ -1,0 +1,70 @@
+
+                                        Python Introduction
+
+--> Python is a high-level, general-purpose, interpreted programming language created by Guido van Rossum and first released in 1991. Python is designed with a simple and readable syntax, which makes it easy for beginners to learn and also powerful enough for professional software development.
+--> Python is widely used in Cloud Computing, DevOps, Automation, Web Development, Data Science, Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development.
+
+--> Key Features of Python
+1. Easy to Learn
+--->Python has simple and readable syntax.
+Compared with languages such as C or Java, Python requires less code to perform the same task.
+
+2. High-Level Language
+---> Python handles many low-level operations automatically, 
+so developers can focus on solving problems rather than managing memory and hardware details.
+
+3. Interpreted Language
+---> Python code is executed by the Python interpreter, which makes it convenient for testing and debugging.
+
+1989
+1991 --> 0.9 version
+1994 --> 1.0 version
+1999 --> 2.0 version
+2020 --> 2.0 end
+2008 --> 3.0 version
+
+3.14.7
+
+IDE : 
+1. VSCode
+2. Jupyter Notebook
+3. PyCharm
+
+
+variable??
+
+x = 5
+y = 10.5
+name = "seema"
+age = 25
+
+**Basic Operators**:
+1. Arithmatic Operators:
+--> addition: +
+--> subtraction: -
+--> multiplication: *
+--> devision: /
+
+2. Comparison operators:
+--> equal to: ==
+--> not equal to: !=
+--> greater than : >
+--> less than: <
+
+3. Logical Operators:
+--> and : both conditions must be true
+--> or : at least one condition must be true 
+
+
+
+print():
+--> this function is used to display text on screen
+
+input():
+--> this function takes input from user
+
+program 2:
+
+
+
+

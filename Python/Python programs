@@ -1,0 +1,62 @@
+program 1: basic operator program
+a = 10
+b = 2
+
+addtion = a + b
+print("Addition is:", addtion)
+
+print("Subtraction is:", a - b)
+print("Multiplication is:", a * b)
+print("Division is:", a / b)
+
+----------------------------------------------------------------------------------------------
+program 2 : Take use input
+name = input("Enter your Name:")
+print("Hello "+ name)
+
+----------------------------------------------------------------------------------------------
+program 3 : take int input
+num1 = int(input("Enter First Number:"))
+num2 = input("Enter Second Number:")
+
+sum = num1 + int(num2)
+
+print("Addition is:", sum)
+
+-------------------------------------------------------------------------------------------------
+Program 4: if-else basic program
+age = int(input("Enter your age:"))
+
+if age >= 18 :
+    print("You can VOTE")
+else:
+    print("You can not VOTE")
+
+-------------------------------------------------------------------------------------------------
+
+program 5: elif program
+
+marks = int(input("Enter your marks: "))
+
+if marks >=80 :
+    print("Grade A")
+elif marks >=60 :
+    print("Grade B")
+elif marks >=40 :
+    print("Grade C")
+else :
+    print("FAIL")
+
+-------------------------------------------------------------------------------------------------
+
+program 6: devops if-else script
+cpu_usage= int(input("Enter CPU usage:"))
+
+if cpu_usage >= 80:
+    print("CRITICAL: CPU usage is Very High")
+elif cpu_usage >= 70 :
+    print("WARNING! CPU usage is high")
+else:
+    print("OK: CPU usage is normal")
+
+--------------------------------------------------------------------------------------------------
