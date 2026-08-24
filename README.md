@@ -94,4 +94,4 @@ Role-Based Access Control (RBAC)
 Backup and Recovery
 Hands-on Azure Labs
 
-📁 Folder: Azure/
+ Folder: Azure/
