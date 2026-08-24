@@ -14,6 +14,39 @@ Control Structure:
  else :
        #code to execute if the condition is false
 
+2. Loop:
+--> A loop allows you to repeat a block of code multiple times.
+--> two main types of loops:
+1. For loop
+2. While loop
+
+1. For loop:
+--> A for loop is used when you know in advance how many times you want to repeat a block of code.
+--> syntax:
+
+for item in sequence :
+      #code to execute for each item
+
+
+**f string**: formatted string
+--> it is an easy way to put variable or expression dircetly inside a string.
+--> put f before the string and put variable inside {}
+eg:
+name = "seema"
+age = 25
+print(f"My name is {name} and age is {age}")
+
+2. While loop:
+--> A while loop is used when you want to repeat a block of code as long as a certain condition is true.
+--> syntax:
+
+ while condition:
+      #code to execute while the condition is true
+
+
+
+
+
        
 
 
